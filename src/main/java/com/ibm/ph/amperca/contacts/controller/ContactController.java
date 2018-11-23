@@ -19,6 +19,7 @@ import com.ibm.ph.amperca.contacts.service.ContactService;
 public class ContactController {
 	
 	// Testing jenkins build 1
+	// Testing jenkins build 2
 
 	@Autowired
 	ContactService contactService;
